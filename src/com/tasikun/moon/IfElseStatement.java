@@ -86,12 +86,11 @@ if (age1>=16){
 } else {
     System.out.println("child");
 }
-int marks = 34;
+/*int marks = 35;
 String result = (marks >33) ? "Pass" : "Fail";
-        System.out.println(result);
-
-
-
+        System.out.println(result);*/
+        int marks = 35;
+        String result = (marks >33) ? "Pass" : "Fail";
 
 
     }

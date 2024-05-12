@@ -5,7 +5,7 @@ public class Loops {
         // 3. downwhile loop
 
    // For Loops:
-        for (int i = 1; i <=100; i ++){
+        for (int i = 1; i <=5; i ++){
             System.out.println(i);
         }
 // print 1
@@ -50,12 +50,12 @@ public class Loops {
         }*/
  // Do while Loops:
 
- int counter = 1;
+ /* int counter = 1;
 
  do {
      System.out.println(counter);
      counter++;
- } while
+ } while (counter<=5);*/
 
     }
 }
