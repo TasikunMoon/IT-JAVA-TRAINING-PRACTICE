@@ -38,7 +38,7 @@ switch (number){
 }  */
        
        
-       /* Scanner number = new Scanner(System.in);
+       /*Scanner number = new Scanner(System.in);
 char button = number.n;
         switch (button) {
             case 'a':

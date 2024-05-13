@@ -91,7 +91,7 @@ String result = (marks >33) ? "Pass" : "Fail";
         System.out.println(result);*/
         int marks = 35;
         String result = (marks >33) ? "Pass" : "Fail";
-
+//Note: If else alternative method
 
     }
 }
