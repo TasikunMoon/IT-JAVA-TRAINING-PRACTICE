@@ -10,7 +10,7 @@ public class OddEven {
         // a%2 = 0 = Even
         //a%2 = reminder = odd
  //Below Ternary operator through programm
-        int number = 96;
+        int number = 95;
        String findEvenOdd = (number%2 == 0) ? "Even" : "odd";  //Note: % here work as a modulus to work as a divider
         System.out.println(findEvenOdd);
 
@@ -20,7 +20,7 @@ public class OddEven {
         if (a >= b){
             System.out.println("a is the largest");
         } else {
-            System.out.println("b is the alargest");
+            System.out.println("b is the largest");
         }
 
 

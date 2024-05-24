@@ -3,7 +3,7 @@ package com.tasikun.moon;
 public class DataType {
     public static void main(String[] args) {
         //Two type of java data type
-        //1. primitive
+        //1. primitive byte/short/long/int/float/double/boolean/char
         //a.byte
         //a=variable/identifier
 

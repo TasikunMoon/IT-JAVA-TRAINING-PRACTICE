@@ -48,14 +48,14 @@ if ((a>c) || (b<c)) {
 
 if ((g<h) && (h<k)){
     System.out.println("Welcome to my facebook");
-} else if ((k>g) && (h>k)) {
+} else if ((k>g) && (h<k)) {
     System.out.println("Password ok");
 } else {
     System.out.println("Password wrong");
 }
 // Note: else if used for add condition
-        // && always if any compared values showed false result will be showed false
-        // || always if any compared values showed false result will be showed True
+        // && always if any compared values showed true/false result will be showed false
+        // || always if any compared values showed true/false result will be showed True
 
         //ternary operator = ?
         //variable = (condition)? statement 1 : statement2 ;
@@ -89,7 +89,7 @@ if (age1>=16){
 /*int marks = 35;
 String result = (marks >33) ? "Pass" : "Fail";
         System.out.println(result);*/
-        int marks = 35;
+        int marks = 33;
         String result = (marks >33) ? "Pass" : "Fail";
 //Note: If else alternative method
 

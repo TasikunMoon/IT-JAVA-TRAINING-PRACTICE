@@ -23,7 +23,7 @@ public class Calculator {
         System.out.println("Please enter numberD");
         double numberD = input.nextDouble();
 
-        double finalResult = numberC + numberD;
+        double finalResult = numberC - numberD;
         System.out.println("NumberC & NumberD total sum = "+ finalResult );
 
     }

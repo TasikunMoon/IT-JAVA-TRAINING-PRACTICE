@@ -2,6 +2,10 @@ package com.tasikun.moon;
 
 public class FunctionOrMethod {
 
+
+    public static void main(String[] args) {
+
+    }
         // method of function
         //2 types 1. void function
         //        2. return function

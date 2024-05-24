@@ -50,7 +50,7 @@ public class JavaOperator {
         int q = ++p;
         System.out.println("pre increment = " + q);
 
-        //Relational Operator
+        //Relational/Equality Operator
 
         int y = 10;
         int y1 = 5;
@@ -68,8 +68,8 @@ public class JavaOperator {
         //System.out.println(y >= y1);
         //System.out.println(y <= y1);
         //System.out.println((a1 > b1) && (a1 < b1));
-        System.out.println((a1 > b1) || (a1 < b1));
-        // 10>5 && 10 < 7
+        System.out.println((a1 > b1) && (a1 < c1));
+        // 10>5 && 10 < 6
         //true         false       false
 
         //Assignment operators

@@ -1,6 +1,6 @@
 package com.tasikun.moon;
 
-public class MyApp {
+public class MyAppObjectCreation {
     public static void main(String[] args) {
         //object creation/instance creation/ins
 //        Computer myLaptop = new Computer();
