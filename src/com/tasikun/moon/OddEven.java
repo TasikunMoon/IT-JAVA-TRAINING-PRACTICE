@@ -10,6 +10,9 @@ public class OddEven {
         // a%2 = 0 = Even
         //a%2 = reminder = odd
  //Below Ternary operator through programm
+
+        //find out formula 0dd (a != 0) and Even (a == 0)
+
         int number = 95;
        String findEvenOdd = (number%2 == 0) ? "Even" : "odd";  //Note: % here work as a modulus to work as a divider
         System.out.println(findEvenOdd);

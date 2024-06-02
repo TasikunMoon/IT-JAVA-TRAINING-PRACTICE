@@ -17,6 +17,7 @@ public class DateTopic {
 
         LocalDateTime nowInSydney = LocalDateTime.now(ZoneId.of("Australia/Sydney"));
         System.out.println("nowInSydney");
+
         System.out.println("Australia = "+ nowInSydney);
 
 
