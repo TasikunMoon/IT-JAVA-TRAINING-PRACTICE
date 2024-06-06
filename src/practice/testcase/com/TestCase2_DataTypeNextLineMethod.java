@@ -1,9 +1,8 @@
-package practice.test.com;
+package practice.testcase.com;
 
-import java.security.PublicKey;
 import java.util.Scanner;
 
-public class TestCase2 {
+public class TestCase2_DataTypeNextLineMethod {
     public static Scanner test = new Scanner(System.in);
     public static void main(String[] args) {
 

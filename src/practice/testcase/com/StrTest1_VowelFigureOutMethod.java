@@ -1,6 +1,6 @@
-package practice.test.com;
+package practice.testcase.com;
 
-public class StrTest1 {
+public class StrTest1_VowelFigureOutMethod {
     public static void main(String[] args) {
 
         String str = "abcdefghijklmnopqrstuvwxyz";

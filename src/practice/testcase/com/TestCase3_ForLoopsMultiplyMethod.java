@@ -1,8 +1,8 @@
-package practice.test.com;
+package practice.testcase.com;
 
 import java.util.Scanner;
 
-public class TestCase3 {
+public class TestCase3_ForLoopsMultiplyMethod {
     public static void main(String[] args) {
         Scanner test = new Scanner(System.in);
         int N = test.nextInt();

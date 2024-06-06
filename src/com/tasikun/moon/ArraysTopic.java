@@ -16,9 +16,11 @@ public class ArraysTopic {
         int arrayvalues[] = new int[3];
         //or
         int arrayvaluess[] = {10, 5, 89, 78, 1010, -98, 565};
+        //or
+        int[] arrayvaluesss = {10, 30, 89, 10, 200, -98, 505};
 
         //for each loop:
-        for (int valueOfArrayStored : arrayvaluess) {
+        for (int valueOfArrayStored : arrayvaluesss) {
             System.out.println(valueOfArrayStored);
 
             if (valueOfArrayStored == -98) {
@@ -30,7 +32,7 @@ public class ArraysTopic {
         }
 
         System.out.println("length of array = " + arrayvalues.length);
-        System.out.println("length of array = " + arrayvaluess[2]);
+        System.out.println("length of array = " + arrayvaluesss[2]);
 
 
         Scanner sc = new Scanner(System.in);

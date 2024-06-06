@@ -1,8 +1,8 @@
-package practice.test.com;
+package practice.testcase.com;
 
 import java.util.Scanner;
 
-public class TestCase1 {
+public class TestCase1_OddEvenCase {
     public static void main(String[] args) {
         Scanner test = new Scanner(System.in);
         int n = test.nextInt();

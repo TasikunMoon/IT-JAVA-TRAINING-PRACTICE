@@ -32,3 +32,19 @@ public class PalindromeTopic {
 
     }
 }
+/* Palindrome:
+A palindrome is a word, phrase, number, or other sequences of characters that
+reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
+The concept of a palindrome applies to various forms of text and numbers. For example:
+
+Words: "radar", "level", "deified"
+Phrases: "A man, a plan, a canal, Panama!"
+Numbers: 121, 12321
+Characteristics of a Palindrome
+Symmetry: The sequence is symmetric, meaning it mirrors itself around its center.
+Case Insensitivity: Palindromes are usually case insensitive;
+"Radar" and "radar" are considered palindromes.
+Ignoring Non-Alphanumeric Characters: In phrases, spaces, punctuation, and
+other non-alphanumeric characters are often ignored.
+ For example, "A man, a plan, a canal, Panama!" is a palindrome if you ignore spaces and punctuation.
+ */
