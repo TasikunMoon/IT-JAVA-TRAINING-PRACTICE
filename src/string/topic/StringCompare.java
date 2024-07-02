@@ -7,7 +7,7 @@ public class StringCompare {
         String s2 = "T";
         String s3 = new String("T");
 //
-//        if (s1==s2)(wrong){ // string level not used '=='  for compare need tgo use .equal()
+//        if (s1==s2)(wrong){ // string level not used '=='  for compare need to use .equal()
 //            System.out.println("Strings are equal");
 //        } else {
 //            System.out.println("Strings are not equal");

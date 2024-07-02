@@ -4,10 +4,10 @@ public class PalindromeTopic {
     //racecar, noon, dad same in opposite
 
     // r a c e| c a r
-    //0 1 2 3 4 5 6
+    //0 1 2 3 2 1 0
 
     // m a d a m
-    // 0 1 2 3 4
+    // 0 1 2 1 0
     //0 != (5-1-0) = 4
 
     public static boolean isPalindrome(String str) {

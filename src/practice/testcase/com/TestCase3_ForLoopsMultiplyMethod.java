@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class TestCase3_ForLoopsMultiplyMethod {
     public static void main(String[] args) {
         Scanner test = new Scanner(System.in);
+        System.out.println("Give input of N");
         int N = test.nextInt();
 
 
